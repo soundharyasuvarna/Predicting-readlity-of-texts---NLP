@@ -1,7 +1,4 @@
 
-![Uploading image.png…]()
-
-
 Predicting Readability of Texts Using Machine Learning
 
 1.1 Introduction
