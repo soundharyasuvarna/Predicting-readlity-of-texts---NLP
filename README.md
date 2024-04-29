@@ -1,5 +1,7 @@
 Predicting Readability of Texts Using Machine Learning
+
 1.1 Introduction
+
 There are a lot of books and magazines produced everyday that contain textual information. Sometimes, the difficulty of a text could be different based on the authors who have written it, the words used and also the sentence length and semantics. One of the challenges when reading texts from different sources is that the text might be too difficult for an average reader while it was originally intended for lecturers and scholars in a particular field. On the other hand, texts in a few sources might be too easy for some readers who expect it to have depth in its content. Therefore, different source of articles have different levels of difficulty in them.
 
 In this machine learning project, we are going to be predicting the difficulty of texts based on some important features. Since we only have textual information, we are going to need to create new features and also tokenize sentences into different words to understand some useful features.
