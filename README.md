@@ -1,3 +1,8 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fpredicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5&psig=AOvVaw0OSkgQzjbuAgn1Hqrj964y&ust=1714446465247000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCwxP645oUDFQAAAAAdAAAAABAE
+
+
+
+
 Predicting Readability of Texts Using Machine Learning
 
 1.1 Introduction
